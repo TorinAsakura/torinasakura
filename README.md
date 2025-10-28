@@ -26,7 +26,10 @@
 ## Креатив
 Иногда делаю музыку и визуальные проекты.
 
-🎧 [Музыка](https://torinasakura.name/music/)  
-🎨 [Дизайн](https://www.behance.net/torinasakura)
+🎧 [Музыка](https://torinasakura.name/music/?utm_source=github&utm_medium=readme&utm_campaign=profile)  
+🎨 [Дизайн](https://www.behance.net/torinasakura?utm_source=github&utm_medium=readme&utm_campaign=profile)
+
+## Контакты
+[torinasakura.name/contacts](https://torinasakura.name/contacts/?utm_source=github&utm_medium=readme&utm_campaign=profile)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=torinasakura)
