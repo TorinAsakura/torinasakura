@@ -12,8 +12,9 @@
 **Инфраструктура:** Kafka · Centrifugo · ClickHouse · Airflow · Kubernetes
 
 ## Организации и OSS
-[ATLS](https://github.com/atls)  
-[TA](https://github.com/torin-asakura)  
+[ATLS](https://github.com/atls)
+[ORCL](https://github.com/oracul-analytics)
+[TA](https://github.com/torin-asakura)
 [REES46](https://github.com/REES46)
 
 ## Принцип
