@@ -12,10 +12,10 @@
 **Инфраструктура:** Kafka · Centrifugo · ClickHouse · Airflow · Kubernetes
 
 ## Организации и OSS
-[ATLS](https://github.com/atls)
-[ORCL](https://github.com/oracul-analytics)
-[TA](https://github.com/torin-asakura)
-[REES46](https://github.com/REES46)
+- [ATLS](https://github.com/atls)
+- [ORCL](https://github.com/oracul-analytics)
+- [TA](https://github.com/torin-asakura)
+- [REES46](https://github.com/REES46)
 
 ## Принцип
 Системы должны выдерживать не идею, а нагрузку.
