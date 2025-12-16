@@ -1,10 +1,10 @@
-## Инженерия
+## Стек
 
 **Core:** TypeScript / JavaScript · Rust (Tokio, Tauri, Entrait, Tonic) · Kotlin Multiplatform · React Ecosystem  
 **Архитектуры:** DDD · CQRS · EDA · Event Sourcing  
 **Инфраструктура:** Kafka · Centrifugo · ClickHouse · Airflow · Kubernetes
 
-## Организации/OSS
+## Open Source
 - [ATLS](https://github.com/atls)
 - [ORCL](https://github.com/oracul-analytics)
 - [TA](https://github.com/torin-asakura)
@@ -12,6 +12,7 @@
 
 ## Сотрудничество
 - Беру только сложные задачи
+- Рассматриваю вариант бизнес-партнёрства
 - Предпочитаю сферы ИИ, продакшен, любые технологические эксперименты, социальные бизнес-домены
 
 ## Творчество
