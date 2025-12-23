@@ -1,8 +1,4 @@
-## Стек
-
-**Core:** TypeScript / JavaScript · Rust (Tokio, Tauri, Entrait, Tonic) · Kotlin Multiplatform · React Ecosystem  
-**Архитектуры:** DDD · CQRS · EDA · Event Sourcing  
-**Инфраструктура:** Kafka · Centrifugo · ClickHouse · Airflow · Kubernetes
+<img width="1280" height="640" alt="ta@identity-github-cover#dark" src="https://github.com/user-attachments/assets/bff49809-676c-4a28-be86-dc44e292b2fb" />
 
 ## Open Source
 - [ATLS](https://github.com/atls)
@@ -11,7 +7,7 @@
 - [REES46](https://github.com/REES46)
 
 ## Сотрудничество
-- Беру только сложные задачи
+- Беру преимущественно сложные (или почти безнадёжные) проекты
 - Рассматриваю вариант бизнес-партнёрства
 - Предпочитаю сферы ИИ, продакшен, любые технологические эксперименты, социальные бизнес-домены
 
