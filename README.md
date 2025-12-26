@@ -1,6 +1,7 @@
-<img width="1280" height="640" alt="ta@identity-github-cover#dark" src="https://github.com/user-attachments/assets/bff49809-676c-4a28-be86-dc44e292b2fb" />
+<img width="1280" height="640" alt="ta@identity-github-cover#dark" src="https://github.com/user-attachments/assets/363faeaa-ca1f-4140-b16d-dd15a2b68ed6" />
 
 ## Open Source
+
 - [ATLS](https://github.com/atls)
 - [ORCL](https://github.com/oracul-analytics)
 - [TA](https://github.com/torin-asakura)
