@@ -10,21 +10,21 @@
 - [TA](https://github.com/torin-asakura)
 - [REES46](https://github.com/REES46)
 
-## Collaboration
+## Сотрудничество
 
-- I mostly take on complex (or nearly hopeless) projects
-- I am open to business partnerships
-- I prefer AI, production systems, technological experiments, and social business domains
+- Беру преимущественно сложные (или почти безнадёжные) проекты
+- Рассматриваю вариант бизнес-партнёрства
+- Предпочитаю сферы ИИ, продакшен, любые технологические эксперименты, социальные бизнес-домены
 
-## Creative Work
+## Творчество
 
-🎧 [Music](https://torinasakura.name/music/?utm_source=github&utm_medium=readme&utm_campaign=profile)<br>
-🎨 [Design](https://www.behance.net/torinasakura?utm_source=github&utm_medium=readme&utm_campaign=profile)
+🎧 [Музыка](https://torinasakura.name/music/?utm_source=github&utm_medium=readme&utm_campaign=profile)<br>
+🎨 [Дизайн](https://www.behance.net/torinasakura?utm_source=github&utm_medium=readme&utm_campaign=profile)
 
-## Contacts
+## Контакты
 
 [torinasakura.name/contacts](https://torinasakura.name/contacts/?utm_source=github&utm_medium=readme&utm_campaign=profile)
 
-## No Idea What This Is
+## Не знаю что это
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=torinasakura)
