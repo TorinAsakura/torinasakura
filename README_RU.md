@@ -6,9 +6,9 @@
 ## Open Source
 
 - [ATLS](https://github.com/atls)
-- [ORCL](https://github.com/oracul-analytics)
+- [TypeScript-Go PRs](https://github.com/microsoft/typescript-go/pulls?q=is%3Apr+author%3ATorinAsakura)
 - [TA](https://github.com/torin-asakura)
-- [REES46](https://github.com/REES46)
+- [React Native PRs](https://github.com/react/react-native/pulls?q=is%3Apr+author%3ATorinAsakura)
 
 ## Сотрудничество
 
