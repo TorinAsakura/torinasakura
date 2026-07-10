@@ -5,10 +5,10 @@
 
 ## Open Source
 
-- [ATLS](https://github.com/atls)
 - [Microsoft](https://github.com/microsoft/typescript-go/pulls?q=is%3Apr+author%3ATorinAsakura)
-- [TA](https://github.com/torin-asakura)
+- [ATLS](https://github.com/atls)
 - [Meta](https://github.com/react/react-native/pulls?q=is%3Apr+author%3ATorinAsakura)
+- [TA](https://github.com/torin-asakura)
 
 ## Collaboration
 
