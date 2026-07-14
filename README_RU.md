@@ -5,11 +5,11 @@
 
 ## Open Source
 
-- [GitHub Integration](https://github.com/integrations/terraform-provider-github/issues?q=is%3Aissue+author%3ATorinAsakura)
+- [GitHub Integration](https://github.com/integrations/terraform-provider-github/pulls?q=is%3Apr+author%3ATorinAsakura)
 - [Microsoft](https://github.com/microsoft/typescript-go/pulls?q=is%3Apr+author%3ATorinAsakura)
 - [React](https://github.com/react/react-native/pulls?q=is%3Apr+author%3ATorinAsakura)
 - [ATLS](https://github.com/atls)
-- [Rust](https://github.com/search?q=org%3Arust-lang+author%3ATorinAsakura&type=issues)
+- [Rust](https://github.com/search?q=org%3Arust-lang+author%3ATorinAsakura&type=pullrequests)
 - [TA](https://github.com/torin-asakura)
 
 ## Сотрудничество
