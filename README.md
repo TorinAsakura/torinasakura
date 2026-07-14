@@ -6,8 +6,8 @@
 ## Open Source
 
 - [Microsoft](https://github.com/microsoft/typescript-go/pulls?q=is%3Apr+author%3ATorinAsakura)
-- [ATLS](https://github.com/atls)
 - [React](https://github.com/react/react-native/pulls?q=is%3Apr+author%3ATorinAsakura)
+- [ATLS](https://github.com/atls)
 - [TA](https://github.com/torin-asakura)
 
 ## Collaboration
